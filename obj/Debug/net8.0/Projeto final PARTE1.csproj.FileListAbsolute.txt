@@ -1,0 +1,14 @@
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\bin\Debug\net8.0\Projeto final PARTE1.exe
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\bin\Debug\net8.0\Projeto final PARTE1.deps.json
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\bin\Debug\net8.0\Projeto final PARTE1.runtimeconfig.json
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\bin\Debug\net8.0\Projeto final PARTE1.dll
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\bin\Debug\net8.0\Projeto final PARTE1.pdb
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\Projeto final PARTE1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\Projeto final PARTE1.AssemblyInfoInputs.cache
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\Projeto final PARTE1.AssemblyInfo.cs
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\Projeto final PARTE1.csproj.CoreCompileInputs.cache
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\Projeto final PARTE1.dll
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\refint\Projeto final PARTE1.dll
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\Projeto final PARTE1.pdb
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\Projeto final PARTE1.genruntimeconfig.cache
+C:\Users\rapha\OneDrive\Documents\C# STUDIES\Bootcamp C# Dio\PARTE1\Projeto final PARTE1\obj\Debug\net8.0\ref\Projeto final PARTE1.dll
